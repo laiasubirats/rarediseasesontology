@@ -7,4 +7,4 @@ HORD is available from : http://bioportal.bioontology.org/ontologies/HORD and ol
 * Social network ontology: sioc.rdf
 * Temporal ontology: time.owl
 
-The scenarios of the ontology are also available in CSV format at "Scenarios about Rare Diseases_2017_08_09.csv" and their text is available at Testimonials.pdf. The clustering code to describe the scenarios is available at Scenarios_clustering_2017_08_10.ipynb.
+The scenarios of the ontology are also available in CSV format at "Scenarios about Rare Diseases_2017_08_28.csv" and their text in the original language is available at Testimonials.pdf. The clustering code to describe the scenarios is available at Scenarios_clustering_2017_08_10.ipynb and the sentiment analysis code is available at SentimentAnalysisOntology_2017_08_28.ipynb.
